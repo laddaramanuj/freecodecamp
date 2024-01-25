@@ -1,0 +1,44 @@
+body {
+  background-color: rgb(27, 28, 49);
+  margin: 0;
+  padding: 0;
+}
+.heading_div {
+  background-color: rgb(10, 10, 34);
+  height: 50px;
+  color: white;
+}
+.search_div {
+  background-color: rgb(255, 255, 255, 0.3);
+  text-align: left;
+  color: rgb(255, 255, 255, 0.8);
+  display: inline-block;
+  /*align-items: center;
+            display: flex;
+            justify-content: left;*/
+  width: 500px;
+  margin-top: 10px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  font-size: 1.15em;
+  font-family: sans-serif;
+  margin-left: 15px;
+  padding-left: 30px;
+}
+.user_search {
+  font-weight: 100;
+}
+.freecodecamp_photo {
+  height: 25px;
+  margin-left: 90px;
+}
+.freecodecamp_heading {
+  font-size: 30px;
+  padding-left: 100px;
+}
+.web_icon {
+  border: 1px solid white;
+  height: 25px;
+  margin-left: 400px;
+}
+
